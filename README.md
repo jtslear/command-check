@@ -1,0 +1,3 @@
+## Testing the command check via openshift
+
+Don't use this....
